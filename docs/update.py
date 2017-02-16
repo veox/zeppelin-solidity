@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Brute-force Sphinx documentation from Solidity source.
-# TODO: not finished!
+# TODO: Reimplement as proper Sphinx domain?
 
 sourcedir = '../contracts'
 destdir = './gen'
