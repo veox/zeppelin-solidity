@@ -1,2 +1,2 @@
 sphinx
-sphinxcontrib-domaintools
+breathe
